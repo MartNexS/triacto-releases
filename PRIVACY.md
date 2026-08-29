@@ -1,6 +1,6 @@
 # TRIACTO Privacy Policy
 
-Effective and last updated: 28 August 2026
+Effective and last updated: 29 August 2026
 
 This policy describes TRIACTO on the web and Android (`com.triacto.app`). MartNexS is responsible
 for TRIACTO. For privacy, access, correction, or deletion questions, contact
@@ -45,16 +45,18 @@ TRIACTO limits player-authored field lengths, removes emoji from those fields, v
 actions on the server, and uses encrypted transport. No system can guarantee absolute security;
 share online room codes only with intended participants.
 
-## Audience, advertising, purchases, and donations
+## Audience, advertising, purchases, and web support
 
 TRIACTO is intended for ages 13 and over. A parent or guardian who believes a child supplied
 personal information may contact MartNexS with the approximate time and room code, if available.
 
 TRIACTO has no ads, analytics SDK, crash-reporting SDK, behavioral tracking, in-app purchases,
 subscriptions, paid packs, or Google Play Billing integration. All game content is included free.
-The “Support TRIACTO” button opens Ko-fi for an optional tip processed by Ko-fi and its payment
-providers. A tip does not unlock content, remove restrictions, confer status, or provide any game
-advantage. TRIACTO does not receive payment-card data.
+The web edition's “Support TRIACTO” button opens Ko-fi for an optional tip processed by Ko-fi and
+its payment providers. A tip does not unlock content, remove restrictions, confer status, or
+provide any game advantage. TRIACTO does not receive payment-card data. The Google Play Android
+app contains no donation wording or Ko-fi destination and instead links only to the public app
+website.
 
 Material policy changes will be identified by an updated date. The canonical policy is available
 at https://martnexs.com/privacy/triacto/.

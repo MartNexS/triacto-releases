@@ -11,5 +11,6 @@ Official Android downloads and release notes for **TRIACTO**, published by **Mar
 Installable APK files are provided only through this repository's GitHub Releases page. The
 Google Play app bundle and the private source project are not published here.
 
-TRIACTO is free, has no advertising or in-app purchases, and offers an optional external tip link
-that unlocks no content or gameplay advantage.
+TRIACTO is free and has no advertising or in-app purchases. The web edition offers an optional
+external support link that unlocks no content or gameplay advantage. The Google Play Android
+build contains no donation wording or Ko-fi destination and links only to the app website.
